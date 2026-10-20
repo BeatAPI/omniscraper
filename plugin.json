@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "omniscraper",
+  "description": "Collect public social-media content into Markdown and JSON. Free methods first, with an optional BeatAPI fallback.",
+  "version": "0.1.0",
+  "author": {
+    "name": "BeatAPI",
+    "email": "support@beatapi.io"
+  },
+  "homepage": "https://beatapi.io/data",
+  "license": "MIT",
+  "keywords": [
+    "social-data",
+    "scraper",
+    "comments",
+    "beatapi",
+    "grok-bot"
+  ],
+  "repository": "https://github.com/BeatAPI/omniscraper"
+}
